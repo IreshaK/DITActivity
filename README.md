@@ -1,0 +1,2 @@
+# DITActivity
+To learn git
